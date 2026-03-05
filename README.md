@@ -18,7 +18,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F0EBE0?style=flat-square&logo=safari&logoColor=C9515B)](https://ohnohimanshu.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F0EBE0?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ohnohimanshu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F0EBE0?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/himanshu-sharma-5903612b9/)
 [![Email](https://img.shields.io/badge/Email-F0EBE0?style=flat-square&logo=gmail&logoColor=C9515B)](mailto:himanshuxdei@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ohnohimanshu&style=flat-square&color=C9515B&label=訪問者)
 
@@ -234,7 +234,7 @@ class HimanshuSharma:
 <br/>
 
 [![Email](https://img.shields.io/badge/himanshuxdei%40gmail.com-C9515B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuxdei@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohnohimanshu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-sharma-5903612b9/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://ohnohimanshu.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohnohimanshu)
 
