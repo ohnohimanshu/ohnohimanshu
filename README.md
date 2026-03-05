@@ -45,7 +45,6 @@ class HimanshuSharma:
     
     currently   = [
         "🔴 Building: RAG pipelines & LLM agent systems",
-        "📚 Learning: FastAPI · LLMOps · Andrej Karpathy LLM course",
         "🎯 Goal: Generative AI Engineering role in Japan",
     ]
 
@@ -221,29 +220,6 @@ class HimanshuSharma:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohnohimanshu&theme=transparent&ring=C9515B&fire=C9515B&currStreakLabel=C9515B&sideLabels=1A1A1A&dates=666666&border=C9515B"/>
 
 </div>
-
-<br/>
-
----
-
-## 　五　&nbsp; 現在学習中 &nbsp;·&nbsp; Currently Learning
-
-<div align="center">
-
-```
-🔴  This month — deepening Generative AI expertise
-```
-
-</div>
-
-| 　 | Course | Instructor | Focus |
-|---|--------|-----------|-------|
-| → | Python for AI & Agents | Dave Ebbelaar | AI tooling & agent patterns |
-| → | FastAPI Full Course | Corey Schafer | Modern async API development |
-| → | Intro to Large Language Models | Andrej Karpathy | LLM internals & architecture |
-| → | RAG Crash Course | Krish Naik | Production RAG systems |
-| → | AI Agents Course | Marina Wyss | Multi-agent orchestration |
-| → | What Exactly is LLMOps? | Shantanu | LLM deployment & monitoring |
 
 <br/>
 
